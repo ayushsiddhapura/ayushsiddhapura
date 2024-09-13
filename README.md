@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Django, Flask**
 
-- 📫 How to reach me **ayushsiddhapura92@gmail.com**
+- 📫 How to reach me **sidayush47@gmail.com**
 
 - ⚡ Fun fact **Big money awaits in coding**
 
