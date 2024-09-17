@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Django, Flask**
 
-- 📫 How to reach me: **sidayush47@gmail.com**
+- 📫 How to reach me: ****
 
 - ⚡ Fun fact: **Big money awaits in coding**
 
@@ -13,7 +13,7 @@
 
 <p align="left">
   <a href="mailto:sidayush47@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <!-- Add any other social media links like LinkedIn, GitHub profile link, etc. -->
+  <!-- Add any other social media links like LinkedIn, GitHub profile link, etc. -->sidayush47@gmail.com
 </p>
 
 ---
